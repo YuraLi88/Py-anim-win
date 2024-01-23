@@ -1,0 +1,1 @@
+create_anim.exe data -i 25 -x "time, ms" -y "$E_x$, $\frac{V}{cm}$" -t "Electric impulse propagation" -n field_impulse
